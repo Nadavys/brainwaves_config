@@ -1,0 +1,74 @@
+--- 
+categories: 
+  - 
+    description: "ipsum lorem create"
+    name: create
+    thumbnail: "https://pbs.twimg.com/profile_images/633782900077408256/F541mrSs_400x400.jpg"
+  - 
+    description: "ipsum lorem relax"
+    name: relax
+    thumbnail: "https://static-s.aa-cdn.net/img/ios/949789164/e2d5f4697cde947639ebf834a24437b6"
+  - 
+    description: "ipsum lorem sleep"
+    name: sleep
+    thumbnail: "https://pbs.twimg.com/profile_images/590205977321984002/wiJx_lh3.jpg"
+  - 
+    description: "ipsum lorem sos"
+    name: sos
+    thumbnail: "http://authentic-scandinavia.com/system/images/tours/photos/155/thumbnail.jpg"
+
+tracks:
+  - 
+    category: create
+    description: "ipsum lorem"
+    duration: 1000
+    name: Create1
+    uri: "https://s3-us-west-1.amazonaws.com/alpha-tracks/Create1A10Min.mp3"
+  - 
+    category: relax
+    description: "ipsum lorem2"
+    duration: 1000
+    name: Relax1
+    uri: "https://s3-us-west-1.amazonaws.com/alpha-tracks/Relax1A10Min.mp3"
+  - 
+    category: sleep
+    description: "ipsum lorem3"
+    duration: 1100
+    name: Sleep1
+    uri: "https://s3-us-west-1.amazonaws.com/alpha-tracks/Sleep1A10Min.mp3"
+  - 
+    category: create
+    description: "ipsum lorem"
+    duration: 1000
+    name: Create2
+    uri: "https://s3-us-west-1.amazonaws.com/alpha-tracks/Create1B20Min.mp3"
+  - 
+    category: relax
+    description: "ipsum lorem2"
+    duration: 1000
+    name: Relax2
+    uri: "https://s3-us-west-1.amazonaws.com/alpha-tracks/Relax1B20Min.mp3"
+  - 
+    category: sleep
+    description: "ipsum lorem3"
+    duration: 1100
+    name: Sleep2
+    uri: "https://s3-us-west-1.amazonaws.com/alpha-tracks/Sleep1B20Min.mp3"
+  - 
+    category: sos
+    description: "ipsum lorem"
+    duration: 1000
+    name: SOS1A
+    uri: "https://s3-us-west-1.amazonaws.com/alpha-tracks/SOS1A15Min.mp3"
+  - 
+    category: sos
+    description: "ipsum lorem2"
+    duration: 1000
+    name: SOS1B
+    uri: "https://s3-us-west-1.amazonaws.com/alpha-tracks/SOS1B15Min.mp3"
+  - 
+    category: sos
+    description: "ipsum lorem3"
+    duration: 1100
+    name: SOS1C
+    uri: "https://s3-us-west-1.amazonaws.com/alpha-tracks/SOS1C15Min.mp3"
