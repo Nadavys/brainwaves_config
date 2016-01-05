@@ -59,22 +59,22 @@ tracks:
     description: "64K"
     duration: 1000
     name: 64K
-    uri: "https://drive.google.com/open?id=0B7v1zdh4HAcBa052eU9QVUJLSG8"
+    uri: "https://s3-us-west-1.amazonaws.com/alpha-tracks/Treatment64.mp3"
   - 
     category: sos
     description: "96K"
     duration: 1000
     name: 96K
-    uri: "https://drive.google.com/open?id=0B7v1zdh4HAcBNUtqLUd4S2VpQkU"
+    uri: "https://s3-us-west-1.amazonaws.com/alpha-tracks/Treatment96.mp3"
   - 
     category: sos
     description: "128K"
     duration: 1100
     name: 128K
-    uri: "https://drive.google.com/open?id=0B7v1zdh4HAcBNXdPdncxcl9mSW8"
+    uri: "https://s3-us-west-1.amazonaws.com/alpha-tracks/Treatment128.mp3"
   -  
     category: sos
     description: "192K"
     duration: 1100
     name: 192K
-    uri: "https://drive.google.com/open?id=0B7v1zdh4HAcBNlVjdWZ6alB0SWs"
+    uri: "https://s3-us-west-1.amazonaws.com/alpha-tracks/Treatment192.mp3"
