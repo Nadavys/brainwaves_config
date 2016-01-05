@@ -56,19 +56,25 @@ tracks:
     uri: "https://s3-us-west-1.amazonaws.com/alpha-tracks/Sleep1B20Min.mp3"
   - 
     category: sos
-    description: "ipsum lorem"
+    description: "64K"
     duration: 1000
-    name: SOS1A
-    uri: "https://s3-us-west-1.amazonaws.com/alpha-tracks/SOS1A15Min.mp3"
+    name: 64K
+    uri: "https://drive.google.com/open?id=0B7v1zdh4HAcBa052eU9QVUJLSG8"
   - 
     category: sos
-    description: "ipsum lorem2"
+    description: "96K"
     duration: 1000
-    name: SOS1B
-    uri: "https://s3-us-west-1.amazonaws.com/alpha-tracks/SOS1B15Min.mp3"
+    name: 96K
+    uri: "https://drive.google.com/open?id=0B7v1zdh4HAcBNUtqLUd4S2VpQkU"
   - 
     category: sos
-    description: "ipsum lorem3"
+    description: "128K"
     duration: 1100
-    name: SOS1C
-    uri: "https://s3-us-west-1.amazonaws.com/alpha-tracks/SOS1C15Min.mp3"
+    name: 128K
+    uri: "https://drive.google.com/open?id=0B7v1zdh4HAcBNXdPdncxcl9mSW8"
+  -  
+    category: sos
+    description: "192K"
+    duration: 1100
+    name: 192K
+    uri: "https://drive.google.com/open?id=0B7v1zdh4HAcBNlVjdWZ6alB0SWs"
